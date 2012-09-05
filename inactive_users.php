@@ -4,13 +4,13 @@ Plugin Name: Inactive Users
 Plugin URI: http://www.thecarnivalband.com
 Description: Lists user accounts that may be inactive
 Version: 1.0
-Author: Darryl Fuller
+Author: DarrylF
 Author URI: http://www.thecarnivalband.com
 License: GPL2
 */
 ?>
 <?php
-/*  Copyright 2011  Darryl Fuller (email : darryl@tzap.ca)
+/*  Copyright 2011  The Carnival Band (email : oaowebmonkey@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
