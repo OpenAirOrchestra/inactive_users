@@ -1,9 +1,9 @@
 === Inactive Users ===
-Contributors: darrylf
+Contributors: darrylf Richard K
 Donate link: http://example.com/
 Tags: users, logging
-Requires at least: 3.2
-Tested up to: 3.2.1
+Requires at least: 3.9
+Tested up to: 4.0.1
 Stable tag: 1.0
 
 Lists users that are not active on the site.
