@@ -1,5 +1,5 @@
 === Inactive Users ===
-Contributors: darrylf
+Contributors: darrylf Richard K
 Donate link: http://example.com/
 Tags: users, logging
 Requires at least: 3.2
