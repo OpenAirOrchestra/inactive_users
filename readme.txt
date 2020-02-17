@@ -3,8 +3,8 @@ Contributors: darrylf Richard K
 Donate link: http://example.com/
 Tags: users, logging
 Requires at least: 3.2
-Tested up to: 3.2.1
-Stable tag: 1.0
+Tested up to: 5.3.1
+Stable tag: 1.1
 
 Lists users that are not active on the site.
 
@@ -32,4 +32,6 @@ accounts.
 = 1.0 =
 * Initial Version.
 
+= 1.0 =
+* GitHub updater integration
 

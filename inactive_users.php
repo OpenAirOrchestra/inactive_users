@@ -1,12 +1,13 @@
 <?php
 /*
 Plugin Name: Inactive Users
-Plugin URI: http://www.thecarnivalband.com
+Plugin URI: https://github.com/OpenAirOrchestra/inactive_users
 Description: Lists user accounts that may be inactive
-Version: 1.0
+Version: 1.1
 Author: DarrylF
 Author URI: http://www.thecarnivalband.com
 License: GPL2
+GitHub Plugin URI: https://github.com/OpenAirOrchestra/inactive_users
 */
 ?>
 <?php
