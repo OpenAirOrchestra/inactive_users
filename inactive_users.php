@@ -3,7 +3,7 @@
 Plugin Name: Inactive Users
 Plugin URI: https://github.com/OpenAirOrchestra/inactive_users
 Description: Lists user accounts that may be inactive
-Version: 1.1
+Version: 1.2
 Author: DarrylF
 Author URI: http://www.thecarnivalband.com
 License: GPL2
@@ -46,10 +46,10 @@ class expiredUsers {
 		$min_user_age =  360; // Days
 		$min_user_activity = 180; // Days
 
-		if ($_GET['age'] && intval($_GET['age'])) {
+		if (isset($_GET['age']) && $_GET['age'] && intval($_GET['age'])) {
 			$min_user_age = intval($_GET['age']);
 		}
-		if ($_GET['inactive'] && intval($_GET['inactive'])) {
+		if (isset($_GET['inactive']) && $_GET['inactive'] && intval($_GET['inactive'])) {
 			$min_user_activity = intval($_GET['inactive']);
 		}
 

@@ -11,7 +11,7 @@ class inactiveUserTableView {
 	 */
         function render( $results ) {
 	
-		$siteurl = get_bloginfo('siteurl');
+		$siteurl = get_bloginfo('url');
 
 		echo '<table class="widefat" cellpadding="3" cellspacing="3"><tr><th>User</th><th>email</th><th>Last Active</th></tr>';
 
